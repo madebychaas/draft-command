@@ -1,0 +1,5 @@
+.DS_Store
+
+# Generated design studies are intentionally not part
+# of the first public release. Publish only after review.
+assets/concepts/*.png
