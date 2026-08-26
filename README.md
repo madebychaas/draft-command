@@ -181,7 +181,7 @@ The goal is to show the quality of the decision architecture without publishing 
 - [Case study](docs/CASE_STUDY.md)
 - [Public architecture](docs/ARCHITECTURE.md)
 - [Brand system](docs/BRAND_SYSTEM.md)
-- [Static showcase site](site/)
+- [Live product showcase](https://madebychaas.github.io/draft-command/)
 
 ---
 

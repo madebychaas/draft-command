@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0" stop-color="#160f08"/><stop offset=".45" stop-color="#09070f"/><stop offset="1" stop-color="#28113f"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f2d37b"/><stop offset="1" stop-color="#ffc62f"/></linearGradient>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .cond{font-family:"Arial Narrow",Arial,Helvetica,sans-serif;font-stretch:condensed}
+    .caps{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:2px}
+    .muted{fill:#aaa3b6}
+    .text{fill:#f6f2ea}
+    .purple{fill:#9055d6}
+    .gold{fill:#ffc62f}
+    .green{fill:#4fe0a1}
+    .amber{fill:#f4b860}
+    .red{fill:#ff6b6b}
+  </style>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="60" y="44" width="54" height="54" rx="14" fill="#0c0914" stroke="#7c4fb1" stroke-width="2"/>
+<rect x="72" y="60" width="22" height="24" rx="5" fill="none" stroke="#ffc62f" stroke-width="3"/>
+<rect x="85" y="63" width="22" height="24" rx="5" fill="none" stroke="#9055d6" stroke-width="3"/>
+<text x="130" y="79" class="caps text" font-size="22">DRAFT</text>
+<text x="214" y="79" class="caps gold" font-size="22">COMMAND</text>
+<text x="1455" y="79" text-anchor="end" class="caps purple" font-size="17">ON CLOCK</text><text x="1530" y="79" text-anchor="end" class="caps gold" font-size="17">60 SEC</text>
+
+<line x1="40" y1="100" x2="1560" y2="100" stroke="#413452"/>
+<rect x="40" y="128" width="360" height="714" rx="18" fill="#0d0a16" stroke="#342845"/>
+<text x="66" y="174" class="caps text" font-size="17">PLAYER POOL</text>
+<!-- compact pool -->
+<g class="sans" font-size="20" font-weight="700">
+  <text x="120" y="230" fill="#f6f2ea">Jahmyr Gibbs</text><text x="360" y="230" text-anchor="end" fill="#ff6b6b">LOW</text>
+  <text x="120" y="304" fill="#f6f2ea">Jonathan Taylor</text><text x="360" y="304" text-anchor="end" fill="#f4b860">22%</text>
+  <text x="120" y="378" fill="#f6f2ea">Amon-Ra St. Brown</text><text x="360" y="378" text-anchor="end" fill="#f4b860">17%</text>
+  <text x="120" y="452" fill="#f6f2ea">Saquon Barkley</text><text x="360" y="452" text-anchor="end" fill="#4fe0a1">31%</text>
+</g>
+<rect x="54" y="496" width="332" height="67" rx="12" fill="#2c1946" stroke="#9055d6" stroke-width="2"/>
+<circle cx="85" cy="529" r="19" fill="#1e1631" stroke="#9055d6"/><text x="85" y="535" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#f2d37b">BH</text>
+<text x="120" y="528" class="sans text" font-size="20" font-weight="700">Breece Hall</text><text x="360" y="528" text-anchor="end" class="sans green" font-size="17" font-weight="700">76%</text><text x="120" y="550" class="caps muted" font-size="12">NYJ</text>
+<g class="sans" font-size="20" font-weight="700">
+  <text x="120" y="606" fill="#f6f2ea">Justin Jefferson</text><text x="360" y="606" text-anchor="end" fill="#f4b860">17%</text>
+  <text x="120" y="680" fill="#f6f2ea">Ashton Jeanty</text><text x="360" y="680" text-anchor="end" fill="#f4b860">18%</text>
+  <text x="120" y="754" fill="#f6f2ea">James Cook</text><text x="360" y="754" text-anchor="end" fill="#f4b860">22%</text>
+</g>
+
+<text x="800" y="162" text-anchor="middle" class="caps muted" font-size="19">DRAFT COMMAND RECOMMENDS</text>
+<g fill="none" stroke="#3f2759"><circle cx="780" cy="360" r="165"/><circle cx="780" cy="360" r="130"/><circle cx="780" cy="360" r="96"/></g>
+<circle cx="780" cy="360" r="110" fill="#161023" stroke="#9055d6" stroke-width="3"/>
+<text x="780" y="378" text-anchor="middle" class="cond text" font-size="86" font-weight="800">BH</text>
+<text x="780" y="430" text-anchor="middle" class="caps muted" font-size="13">PUBLIC-SAFE PLAYER TOKEN</text>
+<text x="960" y="234" class="caps green" font-size="27">PICK</text>
+<text x="955" y="326" class="cond text" font-size="82" font-weight="800">BREECE</text>
+<text x="955" y="408" class="cond text" font-size="82" font-weight="800">HALL</text>
+<text x="958" y="452" class="sans muted" font-size="24">Waiting costs more than acting.</text>
+<rect x="925" y="486" width="495" height="106" rx="28" fill="#1e122f" stroke="#5b3486" stroke-width="2"/>
+<text x="966" y="536" class="caps green" font-size="21">✓ RECOMMENDED</text>
+<text x="966" y="574" class="caps green" font-size="17">HIGH CONFIDENCE</text><text x="1378" y="574" text-anchor="end" class="caps green" font-size="17">READY</text>
+
+<rect x="450" y="655" width="445" height="149" rx="18" fill="#0f0b19" stroke="#372b48"/>
+<text x="476" y="700" class="caps purple" font-size="14">BACKUP 1</text><text x="476" y="744" class="sans text" font-size="28" font-weight="700">Saquon Barkley</text><text x="476" y="772" class="caps muted" font-size="12">IF PRIMARY IS GONE</text>
+<rect x="915" y="655" width="445" height="149" rx="18" fill="#0f0b19" stroke="#372b48"/>
+<text x="941" y="700" class="caps purple" font-size="14">BACKUP 2</text><text x="941" y="744" class="sans text" font-size="28" font-weight="700">Ashton Jeanty</text><text x="941" y="772" class="caps muted" font-size="12">NEXT ACTIONABLE OPTION</text>
+
+<rect x="1390" y="128" width="170" height="714" rx="18" fill="#0d0a16" stroke="#342845"/>
+<text x="1412" y="174" class="caps text" font-size="16">ROSTER</text><text x="1538" y="174" text-anchor="end" class="caps muted" font-size="13">1 / 13</text>
+<g class="sans" font-size="16" fill="#f6f2ea">
+  <text x="1472" y="220">OPEN</text><text x="1472" y="277">Bucky Irving</text><text x="1472" y="334">OPEN</text><text x="1472" y="391">OPEN</text><text x="1472" y="448">OPEN</text><text x="1472" y="505">OPEN</text><text x="1472" y="562">OPEN</text><text x="1472" y="619">OPEN</text>
+</g>
+<g class="caps muted" font-size="11">
+  <text x="1414" y="220">QB</text><text x="1414" y="277" fill="#9055d6">RB</text><text x="1414" y="334">RB</text><text x="1414" y="391">WR</text><text x="1414" y="448">WR</text><text x="1414" y="505">TE</text><text x="1414" y="562">FLEX</text><text x="1414" y="619">FLEX</text>
+</g>
+</svg>
