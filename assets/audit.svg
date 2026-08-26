@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0" stop-color="#160f08"/><stop offset=".45" stop-color="#09070f"/><stop offset="1" stop-color="#28113f"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f2d37b"/><stop offset="1" stop-color="#ffc62f"/></linearGradient>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .cond{font-family:"Arial Narrow",Arial,Helvetica,sans-serif;font-stretch:condensed}
+    .caps{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:2px}
+    .muted{fill:#aaa3b6}
+    .text{fill:#f6f2ea}
+    .purple{fill:#9055d6}
+    .gold{fill:#ffc62f}
+    .green{fill:#4fe0a1}
+    .amber{fill:#f4b860}
+    .red{fill:#ff6b6b}
+  </style>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="60" y="44" width="54" height="54" rx="14" fill="#0c0914" stroke="#7c4fb1" stroke-width="2"/>
+<rect x="72" y="60" width="22" height="24" rx="5" fill="none" stroke="#ffc62f" stroke-width="3"/>
+<rect x="85" y="63" width="22" height="24" rx="5" fill="none" stroke="#9055d6" stroke-width="3"/>
+<text x="130" y="79" class="caps text" font-size="22">DRAFT</text>
+<text x="214" y="79" class="caps gold" font-size="22">COMMAND</text>
+<text x="1515" y="79" text-anchor="end" class="caps purple" font-size="17">CASE FILE / RED TEAM</text>
+
+<text x="62" y="203" class="cond text" font-size="66" font-weight="800">ADVERSARIAL DEVELOPMENT</text>
+<text x="64" y="244" class="sans muted" font-size="27">AI can raise the claim. Reproducible evidence decides.</text>
+<rect x="64" y="286" width="366" height="520" rx="22" fill="#0e0a18" stroke="#3c2d4e"/>
+<text x="92" y="332" class="caps purple" font-size="15">AUDIT PASS</text><text x="92" y="440" class="cond gold" font-size="86" font-weight="800">3</text><text x="178" y="410" class="caps muted" font-size="14">FINDINGS RAISED</text>
+<text x="94" y="517" class="cond muted" font-size="34" font-weight="800">1</text><text x="148" y="507" class="caps muted" font-size="13">REJECTED</text>
+<text x="94" y="601" class="cond green" font-size="34" font-weight="800">2</text><text x="148" y="591" class="caps muted" font-size="13">CONFIRMED</text>
+<text x="94" y="685" class="cond green" font-size="34" font-weight="800">2</text><text x="148" y="675" class="caps muted" font-size="13">REGRESSION TESTS</text>
+<rect x="90" y="690" width="314" height="90" rx="16" fill="#1a112a" stroke="#543676"/>
+<text x="112" y="730" class="sans text" font-size="18" font-weight="700">“No model wins by</text><text x="112" y="758" class="sans" fill="#f2d37b" font-size="18" font-weight="700">sounding confident.”</text>
+<rect x="470" y="290" width="1066" height="154" rx="20" fill="#0f0b19" stroke="#3d3050"/>
+<rect x="492" y="314" width="68" height="68" rx="16" fill="#1f1431" stroke="#684391"/>
+<text x="526" y="357" text-anchor="middle" class="cond purple" font-size="24" font-weight="800">01</text>
+<text x="594" y="337" class="caps text" font-size="19">VALUATION DEFECT</text>
+<text x="1508" y="337" text-anchor="end" class="caps" fill="#aaa3b6" font-size="15">REJECTED</text>
+<text x="594" y="378" class="sans muted" font-size="20">Synthetic state could not occur</text><text x="594" y="405" class="sans muted" font-size="20">through the production valuation path.</text>
+<text x="1180" y="412" class="caps muted" font-size="11">CLAIM</text><text x="1240" y="412" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1270" y="412" class="caps muted" font-size="11">REPRODUCE</text><text x="1370" y="412" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1400" y="412" class="caps muted" font-size="11">DECIDE</text><rect x="470" y="464" width="1066" height="154" rx="20" fill="#0f0b19" stroke="#3d3050"/>
+<rect x="492" y="488" width="68" height="68" rx="16" fill="#1f1431" stroke="#684391"/>
+<text x="526" y="531" text-anchor="middle" class="cond purple" font-size="24" font-weight="800">02</text>
+<text x="594" y="511" class="caps text" font-size="19">SOURCE PRECEDENCE</text>
+<text x="1508" y="511" text-anchor="end" class="caps" fill="#4fe0a1" font-size="15">CONFIRMED → FIXED</text>
+<text x="594" y="552" class="sans muted" font-size="20">Canonical market selection could</text><text x="594" y="579" class="sans muted" font-size="20">be displaced by an audit-only source.</text>
+<text x="1180" y="586" class="caps muted" font-size="11">CLAIM</text><text x="1240" y="586" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1270" y="586" class="caps muted" font-size="11">REPRODUCE</text><text x="1370" y="586" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1400" y="586" class="caps muted" font-size="11">DECIDE</text><rect x="470" y="638" width="1066" height="154" rx="20" fill="#0f0b19" stroke="#3d3050"/>
+<rect x="492" y="662" width="68" height="68" rx="16" fill="#1f1431" stroke="#684391"/>
+<text x="526" y="705" text-anchor="middle" class="cond purple" font-size="24" font-weight="800">03</text>
+<text x="594" y="685" class="caps text" font-size="19">UPSTREAM FRESHNESS</text>
+<text x="1508" y="685" text-anchor="end" class="caps" fill="#4fe0a1" font-size="15">CONFIRMED → FIXED</text>
+<text x="594" y="726" class="sans muted" font-size="20">A fresh fetch could make stale</text><text x="594" y="753" class="sans muted" font-size="20">upstream data appear current.</text>
+<text x="1180" y="760" class="caps muted" font-size="11">CLAIM</text><text x="1240" y="760" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1270" y="760" class="caps muted" font-size="11">REPRODUCE</text><text x="1370" y="760" class="sans gold" font-size="18" font-weight="700">→</text>
+<text x="1400" y="760" class="caps muted" font-size="11">DECIDE</text>
+<rect x="470" y="812" width="1066" height="48" rx="16" fill="#140e20" stroke="#4f3468"/>
+<text x="494" y="840" class="caps purple" font-size="13">AI ASSISTS WITH ENGINEERING + CRITIQUE</text>
+<text x="1512" y="840" text-anchor="end" class="caps gold" font-size="13">DETERMINISTIC PROOF GOVERNS PRODUCTION</text>
+</svg>

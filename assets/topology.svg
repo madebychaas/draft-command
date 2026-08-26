@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0" stop-color="#160f08"/><stop offset=".45" stop-color="#09070f"/><stop offset="1" stop-color="#28113f"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f2d37b"/><stop offset="1" stop-color="#ffc62f"/></linearGradient>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .cond{font-family:"Arial Narrow",Arial,Helvetica,sans-serif;font-stretch:condensed}
+    .caps{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:2px}
+    .muted{fill:#aaa3b6}
+    .text{fill:#f6f2ea}
+    .purple{fill:#9055d6}
+    .gold{fill:#ffc62f}
+    .green{fill:#4fe0a1}
+    .amber{fill:#f4b860}
+    .red{fill:#ff6b6b}
+  </style>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="60" y="44" width="54" height="54" rx="14" fill="#0c0914" stroke="#7c4fb1" stroke-width="2"/>
+<rect x="72" y="60" width="22" height="24" rx="5" fill="none" stroke="#ffc62f" stroke-width="3"/>
+<rect x="85" y="63" width="22" height="24" rx="5" fill="none" stroke="#9055d6" stroke-width="3"/>
+<text x="130" y="79" class="caps text" font-size="22">DRAFT</text>
+<text x="214" y="79" class="caps gold" font-size="22">COMMAND</text>
+
+
+<text x="62" y="205" class="cond text" font-size="64" font-weight="800">KEEPER-ADJUSTED TOPOLOGY</text>
+<text x="64" y="250" class="sans muted" font-size="27">Raw draft slots are not the real decision order.</text>
+<text x="80" y="350" class="cond gold" font-size="58" font-weight="800">182</text><text x="80" y="384" class="caps muted" font-size="15">RAW DRAFT SLOTS</text>
+<text x="430" y="350" class="cond purple" font-size="50" font-weight="800">−</text>
+<text x="585" y="350" class="cond gold" font-size="58" font-weight="800">12</text><text x="585" y="384" class="caps muted" font-size="15">KEEPER-PREFILLED</text>
+<text x="930" y="350" class="cond purple" font-size="50" font-weight="800">=</text>
+<text x="1110" y="350" class="cond gold" font-size="58" font-weight="800">170</text><text x="1110" y="384" class="caps muted" font-size="15">OPEN SELECTIONS</text>
+<rect x="70" y="430" width="1460" height="322" rx="20" fill="#0d0a16" stroke="#352a46"/>
+<text x="100" y="474" class="caps purple" font-size="16">RAW DRAFT ORDER</text>
+<text x="100" y="624" class="caps purple" font-size="16">OPEN-POOL ORDER</text>
+<line x1="200" y1="520" x2="1460" y2="520" stroke="#413452" stroke-width="2"/><line x1="200" y1="670" x2="1460" y2="670" stroke="#413452" stroke-width="2"/>
+<circle cx="220" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="220" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">1.01</text><circle cx="330" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="330" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">1.02</text><circle cx="440" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="440" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">1.03</text><circle cx="710" cy="520" r="38" fill="#151021" stroke="#ffc62f" stroke-width="3"/><text x="710" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#ffc62f">2.08</text><circle cx="830" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="830" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">2.09</text><circle cx="950" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="950" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">2.10</text><circle cx="1195" cy="520" r="38" fill="#151021" stroke="#ffc62f" stroke-width="3"/><text x="1195" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#ffc62f">3.07</text><circle cx="1315" cy="520" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="1315" y="527" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">3.08</text><text x="540" y="528" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text><text x="1050" y="528" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text><text x="1415" y="528" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text><circle cx="220" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="220" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">1</text><circle cx="330" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="330" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">2</text><circle cx="440" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="440" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">3</text><circle cx="710" cy="670" r="38" fill="#151021" stroke="#ffc62f" stroke-width="3"/><text x="710" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#ffc62f">16</text><circle cx="830" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="830" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">17</text><circle cx="950" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="950" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">18</text><circle cx="1195" cy="670" r="38" fill="#151021" stroke="#ffc62f" stroke-width="3"/><text x="1195" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#ffc62f">28</text><circle cx="1315" cy="670" r="38" fill="#151021" stroke="#5a4a6c" stroke-width="2"/><text x="1315" y="677" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#f6f2ea">29</text><text x="540" y="678" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text><text x="1050" y="678" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text><text x="1415" y="678" text-anchor="middle" class="sans muted" font-size="24" font-weight="700">…</text>
+<line x1="710" y1="558" x2="710" y2="625" stroke="#ffc62f" stroke-width="3"/><polygon points="710,637 702,625 718,625" fill="#ffc62f"/>
+<line x1="1195" y1="558" x2="1195" y2="625" stroke="#ffc62f" stroke-width="3"/><polygon points="1195,637 1187,625 1203,625" fill="#ffc62f"/>
+<text x="710" y="808" text-anchor="middle" class="caps gold" font-size="18">RAW 2.08 → OPEN-POOL 16</text>
+<text x="1195" y="808" text-anchor="middle" class="caps gold" font-size="18">RAW 3.07 → OPEN-POOL 28</text>
+<text x="800" y="867" text-anchor="middle" class="sans text" font-size="23">The engine optimizes the actual open-player decision — not the raw board number.</text>
+</svg>
